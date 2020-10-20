@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "830637199968",
+    "firebase_url": "https://khaobao-60914.firebaseio.com",
+    "project_id": "khaobao-60914",
+    "storage_bucket": "khaobao-60914.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830637199968:android:17a798bd7df0dea1",
+        "android_client_info": {
+          "package_name": "com.example.khaobao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830637199968-uomapv9ll2o78dj28u3q1n57vg1kt77s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.khaobao",
+            "certificate_hash": "05d093d436b20035404527d1c85812543fb79deb"
+          }
+        },
+        {
+          "client_id": "830637199968-5c4vmtj3a005s3q9v62ntf6s7a9jbtgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr2J77KLIA56p0zfMmzUZYQbx8wHgvuWQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830637199968-5c4vmtj3a005s3q9v62ntf6s7a9jbtgn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
